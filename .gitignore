@@ -1,7 +1,3 @@
 node_modules/
 public/
-dist/
-
-views/
-.dist/
 .DS_Store
