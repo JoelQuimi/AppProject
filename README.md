@@ -28,16 +28,16 @@ se ejecuta de la siguiente manera
 
 -npm run dev
 
-# la base de datos esta corriendo en la nube, no de forma local 
+# la base de datos esta corriendo en la nube se pude poner directamente el usuname y Password, no de forma local 
 
 # Para acceder a cliente se pone el siguien correo 
 
-# CLIENTE
+CLIENTE
 
 **Usermane** cliente@gmail.com
 **Password** 123456
 
-# ADMIN
+ADMIN
 
 **Usermane** admin@gmail.com
 **Password** 123456
