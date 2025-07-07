@@ -1,8 +1,8 @@
 # EL IDE SE USO VISUAL CODE 
 
-# ESTA CORRIENDO CON APACHE SE INSTALL DE FORMA DEPENDIENTE, NO SE CORRE CON XAMPP
+- ESTA CORRIENDO CON APACHE SE INSTALL DE FORMA DEPENDIENTE, NO SE CORRE CON XAMPP
 
-# 💈 Proyecto - PHP + Gulp
+# Proyecto - PHP + Gulp
 
 Este es un proyecto web, desarrollado con **PHP** en el backend y **Gulp** como herramienta de automatización para el frontend (SCSS, JS, imágenes, etc.).
 
