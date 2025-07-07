@@ -37,7 +37,7 @@ se ejecuta de la siguiente manera
 **Usermane** cliente@gmail.com
 **Password** 123456
 
-# PASSWORD
+# ADMIN
 
 **Usermane** admin@gmail.com
 **Password** 123456
